@@ -1,0 +1,15 @@
+{
+    "name": "npack/hello",
+    "autoload": {
+        "psr-4": {
+            "Npack\\Hello\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wilson",
+            "email": "wilson_chu@newsoft.com.tw"
+        }
+    ],
+    "require": {}
+}
