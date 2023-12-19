@@ -11,5 +11,7 @@
             "email": "wilson_chu@newsoft.com.tw"
         }
     ],
+
+    "minimum-stability": "dev",    
     "require": {}
 }
