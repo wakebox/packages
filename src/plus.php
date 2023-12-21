@@ -1,4 +1,4 @@
-<?php namespace Npack\Hello; 
+<?php namespace NPack\Hello; 
   class Plus {
   public function __construct($a=””, $b=””)
   {
