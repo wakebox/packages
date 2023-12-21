@@ -2,7 +2,7 @@
   class Plus {
   public function __construct($a=””, $b=””)
   {
-    $this->result = $a + $b + 100;
+    $this->result = $a + $b ;
   }
   public function result()
   {
