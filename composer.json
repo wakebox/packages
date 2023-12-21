@@ -2,7 +2,7 @@
     "name": "npack/hello",
     "autoload": {
         "psr-4": {
-            "Npack\\Hello\\": "src/"
+            "Npack\\Hello\\": "package/npack/hello/src/"
         }
     },
     "authors": [
